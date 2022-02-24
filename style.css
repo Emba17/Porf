@@ -2,19 +2,19 @@ body {
 font-family: Arial, sans-serif;
 margin: 0;
 padding: 0; 
-background: #e5e5e5;
-color: #3f3f3f;
+background: #FCF6F5;
+color: #2BAE66;
 font-size: 16px;
 line-height: 24px;
 }
 
-a { color: #000088; }
-a:hover { color: #880000; }
+a { color: #000099; }
+a:hover { color: #880009; }
 
 #wrap { 
 margin: 40px auto;
 width: 940px;
-background: #fff;
+background:#FCF6F5 ;
 
 box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
 -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
@@ -32,14 +32,14 @@ border-radius: 10px;
 border-top-left-radius: 10px;
 border-top-right-radius: 10px;
 
-background: #f9f9f9;
+background: #FCF6F5;
 padding: 20px 0 40px 0;
 }
 #header h1 {
 margin: 0;
 padding: 0 0 0 30px;
 font-weight: bold;
-color: #3f3f3f;
+color: #2BAE66;
 font-size: 38px;
 line-height: 65px;
 letter-spacing: -1px;
@@ -51,19 +51,19 @@ border-radius: 10px;
 margin: 0 0 0 20px; 
 padding: 5px 12px;
 font-weight: normal;
-color: #171717;
+color: #FCF6F5;
 font-size: 22px;
 letter-spacing: -1px;
-background: #FFEE9F;
-border: 1px solid #FFE25F;
+background: #2BAE66;
+border: 1px solid #2BAE66;
 display: inline;
 }
 
 #topmenu {
-background: #f1f1f1;
+background: #2BAE66;
 padding: 10px 20px;
-border-bottom: 1px solid #e1e1e1;
-border-top: 1px solid #e1e1e1;
+border-bottom: 1px solid #2BAE66;
+border-top: 1px solid #2BAE66;
 }
 #topmenu ul { margin: 0; padding: 0; list-style-type: none;}
 #topmenu li { display: inline; padding: 0 20px 0 0 }
@@ -80,7 +80,7 @@ color: #fff;
 margin: 30px 20px 20px 0;
 }
 #menu h3 {
-font-weight: normal; background: #5f5f5f; color: #fff; padding: 10px; margin: 10px 0; 
+font-weight: normal; background: #2BAE66; color: #fff; padding: 10px; margin: 10px 0; 
 }
 #menu ul { 
 -webkit-border-radius: 10px;
@@ -107,10 +107,10 @@ list-style-type: none; margin: 0; padding: 0 10px 10px 10px;
 border-bottom-right-radius: 10px;
 border-bottom-left-radius: 10px;
 
-background: #3f3f3f;
+background: #2BAE66;
 color: #fff;
 padding: 20px;
-border-top: 1px solid #1f1f1f;
+border-top: 1px solid #2BAE66;
 }
 #footer a { color: #fff; text-decoration: none; border-bottom: 1px dotted #fff; }
 #footer a:hover { border-bottom: 1px dotted #ccc; }
