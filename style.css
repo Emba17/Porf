@@ -118,3 +118,18 @@ border-top: 1px solid #2BAE66;
 .left { float: left; }
 .right { float: right; }
 .clear { clear: both; }
+
+HomeAudioButton {
+    display: block;
+    margin: 0% 0% 1% 1%;
+    color: aqua;
+    background-color: rgbA(0, 0, 0, 0);
+    animation-name: redAlert;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    width: 100px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    text-shadow: 1px 1px 1px rgb(0,0,0);
+}
